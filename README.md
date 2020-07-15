@@ -4,6 +4,10 @@ I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to 
 ## You can find me online 🔍
 
 💼 Linkedin
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 🐦 Facebook
 🕸️ Personal website
 

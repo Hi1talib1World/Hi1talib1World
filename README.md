@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to help people  learn to code and transform Their acquaintances to the real world
+I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to help people  learn to code and transform Their acquaintances to the real world.. My background contains various experiences and projects.
 
 ## You can find me online 🔍
 
@@ -7,6 +7,10 @@ I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to 
 
 
 🐦 [Facebook](https://www.facebook.com/hichamtalib8/)
+
+As Grace Hopper said:
+> Don't write better error messages, write code that doesn't need them.
+
 
 
 <!--

@@ -5,11 +5,9 @@ I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to 
 
 💼 [Linkedin](https://www.linkedin.com/in/hicham-outaleb-04a49319a/)
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
-🐦 Facebook
-🕸️ Personal website
+🐦 [Facebook](https://www.facebook.com/hichamtalib8/)
+
 
 <!--
 **Hi1talib1World/Hi1talib1World** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

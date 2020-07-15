@@ -3,7 +3,7 @@ I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to 
 
 ## You can find me online 🔍
 
-💼 Linkedin
+💼 [Linkedin](https://www.linkedin.com/in/hicham-outaleb-04a49319a/)
 
 http://github.com - automatic!
 [GitHub](http://github.com)

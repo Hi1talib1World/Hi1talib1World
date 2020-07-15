@@ -1,6 +1,11 @@
 ## Hi there 👋 
 I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to help people  learn to code and transform Their acquaintances to the real world
 
+## You can find me online 🔍
+
+💼 Linkedin
+🐦 Facebook
+🕸️ Personal website
 
 <!--
 **Hi1talib1World/Hi1talib1World** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

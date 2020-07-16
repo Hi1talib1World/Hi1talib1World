@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/5sXy5VP/cover.png" width="250">
+<img src="https://i.ibb.co/5sXy5VP/cover.png" width="1250">
 
 ## Hi there 👋 
 I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to help people  learn to code and transform Their acquaintances to the real world.. My background contains various experiences and projects.

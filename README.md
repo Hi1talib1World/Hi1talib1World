@@ -1,5 +1,8 @@
 <img src="https://i.ibb.co/5sXy5VP/cover.png" width="650">
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hi1talib1World)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Hi there 👋 
 I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to help people  learn to code and transform Their acquaintances to the real world.. My background contains various experiences and projects.
 

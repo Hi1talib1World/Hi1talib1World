@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hi1talib1World)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visitor Counter for Hi1talib1World](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Hi1talib1World)}](https://pimp-my-readme.webapp.io) 
+[![Visitor Counter for Hi1talib1World](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Hi1talib1World)](https://pimp-my-readme.webapp.io) 
 
 [![JavaScript_HTML_CSS_Java_NodeJS_MySQL_MongoDB_ReactJS_Express_AWS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Java_NodeJS_MySQL_MongoDB_ReactJS_Express_AWS_)](https://pimp-my-readme.webapp.io)
 

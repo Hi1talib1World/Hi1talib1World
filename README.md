@@ -2,7 +2,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hi1talib1World)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Visitor Counter for Hi1talib1World](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Hi1talib1World)}](https://pimp-my-readme.webapp.io) 
 ## Hi there 👋 
 I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to help people  learn to code and transform Their acquaintances to the real world.. My background contains various experiences and projects.
 

@@ -3,7 +3,8 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hi1talib1World)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visitor Counter for Hi1talib1World](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=Hi1talib1World)}](https://pimp-my-readme.webapp.io)
-[![JavaScript_HTML_CSS_Java_NodeJS_MySQL_MongoDB_ReactJS_Express_AWS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Java_NodeJS_MySQL_MongoDB_ReactJS_Express_AWS_)](https://pimp-my-readme.webapp.io)
+
+<a href="https://app.daily.dev/hichamoutaleb7"><img src="https://api.daily.dev/devcards/a1d614e2be024224b446c9b4b4bb1670.png?r=1gw" width="400" alt="hicham outaleb's Dev Card"/></a>
 
 ## Hi there 👋 
 I'm hicham outaleb Android dev & Fullstack web Developer | Teacher  | I like to help people  learn to code and transform Their acquaintances to the real world.. My background contains various experiences and projects.

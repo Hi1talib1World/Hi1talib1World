@@ -4,8 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 555
-![](https://komarev.com/ghpvc/?hi1talib1world)
-
+![](https://komarev.com/ghpvc/?username=Hi1talib1World)
 
 <a href="https://app.daily.dev/hichamtalib"><img src="https://api.daily.dev/devcards/6b79b1440b3d4bdeaf4486ceefec40b8.png?r=no3" width="400" alt="Hicham's Dev Card"/></a>
 
